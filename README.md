@@ -12,7 +12,7 @@ However, I am here to shed light on the utmost importance of being a freelancer.
   </a>
 </div>
 
-<h2>## ⚡ Technologies</h2>
+<h2>⚡ Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,react,nuxt,next,express,vue,laravel,php,wordpress,css,html,figma,python,django,flask,fastapi,cpp,qt,dotnet,androidstudio,flutter,java,go,,,docker,postgresql,mysql,mongodb,firebase,postman,cloudflare,aws,azure&perline=13"/>
